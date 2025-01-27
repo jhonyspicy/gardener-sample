@@ -1,1 +1,1 @@
-# -gardener-sample
+# gardener-sample
