@@ -7,4 +7,7 @@ export default defineConfig({
   integrations: [
     tailwind(),
   ],
+  server: {
+    port: 8089
+  }
 });
