@@ -4,8 +4,8 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://jhonyspicy.github.io',
-  base: '/gardener-sample',
+  // site: 'https://jhonyspicy.github.io',
+  // base: '/gardener-sample',
   integrations: [
     tailwind(),
   ],
